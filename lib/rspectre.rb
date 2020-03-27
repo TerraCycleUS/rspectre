@@ -2,6 +2,7 @@
 
 $LOAD_PATH.unshift(File.expand_path('../lib', __dir__))
 
+require 'stringio'
 require 'pathname'
 require 'set'
 
